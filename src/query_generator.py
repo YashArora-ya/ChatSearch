@@ -1,7 +1,10 @@
 import json
 from pathlib import Path
 
-from search_engine import TEMPORAL_REFERENCE_DATE
+if __package__:
+    from .search_engine import TEMPORAL_REFERENCE_DATE
+else:  # Supports: python src/query_generator.py
+    from search_engine import TEMPORAL_REFERENCE_DATE
 
 
 DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "chat.json"
