@@ -33,7 +33,7 @@ st.set_page_config(page_title="ChatSearch", page_icon="🔎", layout="wide")
 def load_engine() -> ChatSearchEngine:
     """Create one engine per Streamlit process without rebuilding embeddings."""
 
-    engine = ChatSearchEngine(auto_build=False)
+    engine = ChatSearchEngine(auto_build=True)
     # The current engine loads an existing index in its constructor. Keeping this
     # compatibility guard also supports an engine with an explicit load_index.
     if getattr(engine, "embeddings", None) is None and hasattr(engine, "load_index"):
