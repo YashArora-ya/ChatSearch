@@ -1,5 +1,9 @@
 # ChatSearch
 
+## 🚀 Live Demo
+
+[Open ChatSearch](https://chatsearch-yash.streamlit.app)
+
 ChatSearch is a small, fully local hybrid-search app for a **synthetic** group
 chat. It lets you search approximately 4,356 messy English/Hindi/Hinglish
 messages by meaning, participant, and time. It does not use a real chat export,
