@@ -1,0 +1,8 @@
+# Core application dependencies. The search engine uses a local deterministic
+# embedding implementation, so no API key, GPU package, or model download is
+# required.
+streamlit>=1.32
+numpy>=1.26
+
+# Test runner (kept here so the beginner setup command installs everything).
+pytest>=8.0

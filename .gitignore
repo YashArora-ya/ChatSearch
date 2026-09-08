@@ -1,0 +1,8 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+**/__pycache__/
+data/embeddings.npy
+data/embeddings.meta.json

@@ -1,0 +1,325 @@
+[
+  {
+    "id": 1,
+    "query": "When did we decide on the Manali trip?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 2,
+    "query": "Which place did everyone finally agree to visit?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 3,
+    "query": "What destination was locked for the summer outing?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 4,
+    "query": "When was the hill trip finalized?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 5,
+    "query": "Where were we planning to go for the mountains?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 6,
+    "query": "What was the agreed travel destination?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 7,
+    "query": "Which location did the group settle on?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 8,
+    "query": "What place was ultimately chosen for the trip?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 9,
+    "query": "What was the final decision regarding the mountain vacation?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 10,
+    "query": "Which city became the final choice?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 11,
+    "query": "Where did the group agree to travel together?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 12,
+    "query": "What destination got confirmed by everyone?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 13,
+    "query": "Which place did the friends settle on?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 14,
+    "query": "What was finalized for the summer plan?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 15,
+    "query": "Which hill station was selected?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 16,
+    "query": "What did Priya say about the trip budget?",
+    "type": "attributed",
+    "sender": "Priya",
+    "expected_message_id": 1856,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 17,
+    "query": "How much money did Priya suggest keeping for the trip?",
+    "type": "attributed",
+    "sender": "Priya",
+    "expected_message_id": 1856,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 18,
+    "query": "What amount did Priya consider reasonable?",
+    "type": "attributed",
+    "sender": "Priya",
+    "expected_message_id": 1856,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 19,
+    "query": "What dates did Rahul propose?",
+    "type": "attributed",
+    "sender": "Rahul",
+    "expected_message_id": 1859,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 20,
+    "query": "What travel dates were suggested by Rahul?",
+    "type": "attributed",
+    "sender": "Rahul",
+    "expected_message_id": 1859,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 21,
+    "query": "What did Arjun suggest for transportation?",
+    "type": "attributed",
+    "sender": "Arjun",
+    "expected_message_id": 1866,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 22,
+    "query": "What travel option did Arjun recommend?",
+    "type": "attributed",
+    "sender": "Arjun",
+    "expected_message_id": 1866,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 23,
+    "query": "What did Sneha say about the birthday plan?",
+    "type": "attributed",
+    "sender": "Sneha",
+    "expected_message_id": 2753,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 24,
+    "query": "What budget did Rahul suggest for the birthday?",
+    "type": "attributed",
+    "sender": "Rahul",
+    "expected_message_id": 2747,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 25,
+    "query": "Who offered to arrange the cake?",
+    "type": "attributed",
+    "sender": "Yash",
+    "expected_message_id": 2751,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 26,
+    "query": "What was discussed around the Manali planning period?",
+    "type": "temporal",
+    "date_from": "2026-05-18",
+    "date_to": "2026-05-19",
+    "expected_message_id": 1868,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 27,
+    "query": "What decision was made during the May trip discussion?",
+    "type": "temporal",
+    "date_from": "2026-05-18",
+    "date_to": "2026-05-19",
+    "expected_message_id": 1868,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 28,
+    "query": "What did the group settle on during the May conversation?",
+    "type": "temporal",
+    "date_from": "2026-05-18",
+    "date_to": "2026-05-19",
+    "expected_message_id": 1868,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 29,
+    "query": "What happened in the birthday planning discussion in June?",
+    "type": "temporal",
+    "date_from": "2026-06-25",
+    "date_to": "2026-06-26",
+    "expected_message_id": 2753,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 30,
+    "query": "What venue was finalized during the June discussion?",
+    "type": "temporal",
+    "date_from": "2026-06-25",
+    "date_to": "2026-06-26",
+    "expected_message_id": 2753,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 31,
+    "query": "What project decision happened in July?",
+    "type": "temporal",
+    "date_from": "2026-07-20",
+    "date_to": "2026-07-21",
+    "expected_message_id": 3323,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 32,
+    "query": "What did everyone decide during the July project discussion?",
+    "type": "temporal",
+    "date_from": "2026-07-20",
+    "date_to": "2026-07-21",
+    "expected_message_id": 3323,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 33,
+    "query": "What was finalized near the end of July?",
+    "type": "temporal",
+    "date_from": "2026-07-20",
+    "date_to": "2026-07-21",
+    "expected_message_id": 3323,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 34,
+    "query": "What was the project scope discussed in July?",
+    "type": "temporal",
+    "date_from": "2026-07-20",
+    "date_to": "2026-07-21",
+    "expected_message_id": 3318,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 35,
+    "query": "What time constraint was mentioned during the July project conversation?",
+    "type": "temporal",
+    "date_from": "2026-07-20",
+    "date_to": "2026-07-21",
+    "expected_message_id": 3317,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 36,
+    "query": "Which destination got locked in?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 37,
+    "query": "Where are we actually going?",
+    "type": "semantic",
+    "expected_message_id": 1868,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 38,
+    "query": "What did the group finally settle on?",
+    "type": "semantic",
+    "expected_message_id": 2753,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 39,
+    "query": "What did we end up choosing for the final-year work?",
+    "type": "semantic",
+    "expected_message_id": 3323,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  },
+  {
+    "id": 40,
+    "query": "Which option became the final one?",
+    "type": "semantic",
+    "expected_message_id": 3323,
+    "zero_word_overlap": true,
+    "reference_date": "2026-09-01"
+  }
+]
